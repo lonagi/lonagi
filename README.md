@@ -9,7 +9,7 @@
 - 🚁 I’m currently working on [New Vektor Group](https://github.com/New-Vektor-Group)  
   
 
-- 🧪 I’m currently learning Neuroscience (Neurobiology) and UAS Science  
+- 🧪 I’m God in Prompt Engineering
   
 
 - 🎮 I'm Game Developer  
@@ -18,10 +18,7 @@
 - 🚀 I participate in Startups  
   
 
-- I Play 🃏Poker, ♟️Chess and 🔫Airsoft  
-  
-
-- I use Data Science 🐍 everywhere  
+- I Play 🃏Poker, ♟️Warhammer 40k and 🔫Airsoft  
   
 
 <br/>  
