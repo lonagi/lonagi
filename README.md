@@ -101,17 +101,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lonagi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-### **<div align="center">Random Meme 😅</div>**  
-  
-
-<div align="center">
-<img src="https://random-memer.herokuapp.com/" align="center" height="500" width="" />
-</div>  
-  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lonagi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>    
 
 <br/>  
 
