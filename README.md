@@ -1,4 +1,4 @@
-## `def greet(): return "Hello World! I'm Alexander Vopilov"`
+## `def greet(): return "Hello World! I'm Alexandr Vopilov"`
 
 [![Tech Stack](https://img.shields.io/badge/Tech-Python%20|%20FastAPI%20|%20MySQL%20|%20Vue%20|%20Nuxt%20|%20Docker-blue)](https://github.com/loganitos228) 
 [![Projects](https://img.shields.io/badge/Projects-500%2B-brightgreen)](https://nvg-group.com/portfolio/all)
